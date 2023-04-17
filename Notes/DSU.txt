@@ -1,0 +1,2 @@
+-DSU can be used in the logic if the order of input is important as it calculates the parents as we process through the edges.
+-Example question : https://leetcode.com/problems/redundant-connection/description/
